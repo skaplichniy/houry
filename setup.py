@@ -4,7 +4,11 @@ APP = ['houry.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
-    'iconfile': 'icon.icns'
+    'iconfile': 'icon.icns',
+    'plist': {
+        'CFBundleShortVersionString': '0.2.0',
+        'LSUIElement': True,
+    },
 }
 
 setup(
