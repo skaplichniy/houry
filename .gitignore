@@ -171,4 +171,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+.idea
+build
+dist
+
 # End of https://www.toptal.com/developers/gitignore/api/python,macos
