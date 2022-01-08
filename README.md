@@ -1,6 +1,6 @@
 # houry
 houry is a Python app which make a beep-sound every hour.
-More info → https://skaplichniy.com/2021/07/19/houry/
+More info → https://dev.to/skaplichniy/houry-a-simple-python-app-that-beeps-every-hour-2pb
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
